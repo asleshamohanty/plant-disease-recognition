@@ -23,7 +23,7 @@ This project utilizes **MobileNetV2**, a lightweight and efficient convolutional
 - **MobileNetV2** – A pre-trained deep learning model (via Keras) used for efficient plant disease classification
 
 ##  Screenshot
-![Working](Screenshot 2025-05-27 160802.png)
+![Working](static/Screenshot-2025-05-27-160802.png)
 
 ##  Getting Started
 
